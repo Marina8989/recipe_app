@@ -1,5 +1,5 @@
 html{
-    background: #b6b1b1;
+    background: #c4c1c1;
 }
 input {
     background: #a29d9d;
@@ -8,6 +8,7 @@ input {
 button {
      background: #a29d9d;
      box-shadow: none;
+     margin-left: 10px;
 }
 .header {
     text-align: center;
@@ -18,6 +19,7 @@ button {
     border: 1px solid green;
     text-align: center;
     margin: 0 auto;
+    background-color: #d8b7d8;
 }
 img{
   width: 60px;

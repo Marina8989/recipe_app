@@ -1,0 +1,30 @@
+html{
+    background: #b6b1b1;
+}
+input {
+    background: #a29d9d;
+    color: #222122db;
+}
+button {
+     background: #a29d9d;
+     box-shadow: none;
+}
+.header {
+    text-align: center;
+    margin: 2rem 0;
+}
+.fav-meal {
+    width: 400px;
+    border: 1px solid green;
+    text-align: center;
+    margin: 0 auto;
+}
+img{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
